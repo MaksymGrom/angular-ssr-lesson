@@ -1,3 +1,7 @@
+#Мой [youtube](https://www.youtube.com/channel/UClDDVLu0Cj_o9Y5D2ilCtdQ) канал :)
+##Ссылка на этот [урок](https://www.youtube.com/watch?v=9CnlDfoufOc&lc=UgzHyqRDe-N3k6GlpMV4AaABAg.9905BxDJa_M9908PfsLajf)
+
+
 # SsrLessons
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.7.
